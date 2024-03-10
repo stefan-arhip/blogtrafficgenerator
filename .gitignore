@@ -1,0 +1,8 @@
+backup/
+lib/
+ConverterBackup/
+*.log
+*.exe
+*.dbg
+*.dcu
+*.ods
